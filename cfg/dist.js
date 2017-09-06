@@ -37,6 +37,10 @@ config.module.loaders.push({
     config.additionalPaths,
     [ path.join(__dirname, '/../src') ]
   )
+},
+{
+  test: /\.json$/,
+  loader: 'json-loader'
 });
 
 module.exports = config;
