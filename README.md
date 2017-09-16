@@ -1,10 +1,12 @@
 # gallery-by-react
-one photo gallery project based on react
+炫酷的react图片库
 
+ clone 下来
+ 首次运行 npm install 
+ 
+ npm start运行图片库
 
- clone 下来直接 npm start 就能运行
-
-或者点击下面在线预览的地址
+在线预览的地址：
 
 http://zachyang.site/gallery-by-react/dist/index.html
 
